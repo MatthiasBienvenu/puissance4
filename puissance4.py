@@ -1,3 +1,4 @@
+import tkinter.messagebox as messagebox
 from tkinter import *
 
 joueur = 1
